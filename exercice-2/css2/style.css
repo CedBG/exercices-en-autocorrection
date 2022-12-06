@@ -3,7 +3,40 @@
   font-size: 12px;
   color: #999;
 }
-span {
+.lettre {
   font-size: 30px;
+  color: orange;
+}
+div p {
+  font-size: 11px;
+}
+.h1 {
+  text-align: center;
+  font-size: 24px;
+  color: #ccc;
+}
+.h2 {
+  text-align: center;
+  font-size: 22px;
+}
+.h3 {
+  font-size: 11px;
+  color: #ccc;
+}
+figcaption {
+  color: #99340f;
+  font-size: 13px;
+}
+.menu-chaises {
+  text-align: center;
+}
+table,
+th,
+tr,
+td {
+  border: 1px solid black;
+}
+th,
+td {
   color: orange;
 }
